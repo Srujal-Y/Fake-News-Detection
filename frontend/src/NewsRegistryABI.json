@@ -1,0 +1,12 @@
+[
+  {
+    "inputs": [
+      { "internalType": "bytes32", "name": "_hash", "type": "bytes32" },
+      { "internalType": "string", "name": "_sourceUrl", "type": "string" }
+    ],
+    "name": "addNews",
+    "outputs": [{ "internalType": "uint256", "name": "newsId", "type": "uint256" }],
+    "stateMutability": "nonpayable",
+    "type": "function"
+  }
+]
